@@ -8,7 +8,7 @@ Problem:
 2-Query the number of ocurrences of each occupation in OCCUPATIONS.
   Sort the occurrences in ascending order, and output them in the following format:
 
-Link:
+Problem Link:
 https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true
 */
 
