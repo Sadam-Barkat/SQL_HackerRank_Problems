@@ -42,3 +42,5 @@ Query-2 Link :https://www.hackerrank.com/challenges/revising-aggregations-sum/pr
 Query-3 Link :https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true
 
 Query-4 Link :https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
+
+Query-5 Link :https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true
