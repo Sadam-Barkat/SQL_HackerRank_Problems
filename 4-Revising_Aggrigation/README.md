@@ -39,4 +39,6 @@ Query-1 Link :https://www.hackerrank.com/challenges/revising-aggregations-the-co
 
 Query-2 Link :https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
 
-Query-3 Link :[https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true)
+Query-3 Link :https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=true
+
+Query-4 Link :https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
