@@ -4,8 +4,6 @@ Problem Statement
 
 Write a query to count the number of cities in the CITY table with a population larger than 100,000.
 
-Problem Link:https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true
-
 Input Format
 
 The CITY table is defined as follows:
@@ -36,3 +34,5 @@ Sample Output
 Explanation
 
 Only Tokyo and New York have a population larger than 100,000.
+Query-1 Link :https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem?isFullScreen=true
+Query-1 Link :https://www.hackerrank.com/challenges/revising-aggregations-sum/problem?isFullScreen=true
