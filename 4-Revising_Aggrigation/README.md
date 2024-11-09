@@ -44,3 +44,5 @@ Query-3 Link :https://www.hackerrank.com/challenges/revising-aggregations-the-av
 Query-4 Link :https://www.hackerrank.com/challenges/average-population/problem?isFullScreen=true
 
 Query-5 Link :https://www.hackerrank.com/challenges/japan-population/problem?isFullScreen=true
+
+Query-6 Link :https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
