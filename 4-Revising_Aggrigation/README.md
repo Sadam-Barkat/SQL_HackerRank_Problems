@@ -52,3 +52,6 @@ Query-7 Link :https://www.hackerrank.com/challenges/the-blunder/problem?isFullSc
 Query-8 Link :https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
 
 Query-9 Link :https://www.hackerrank.com/challenges/weather-observation-station-2/problem?isFullScreen=true
+
+Query-10 Link :https://www.hackerrank.com/challenges/weather-observation-station-13/problem?isFullScreen=true
+
