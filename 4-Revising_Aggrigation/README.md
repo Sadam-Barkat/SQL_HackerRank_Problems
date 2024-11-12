@@ -48,3 +48,5 @@ Query-5 Link :https://www.hackerrank.com/challenges/japan-population/problem?isF
 Query-6 Link :https://www.hackerrank.com/challenges/population-density-difference/problem?isFullScreen=true
 
 Query-7 Link :https://www.hackerrank.com/challenges/the-blunder/problem?isFullScreen=true
+
+Query-8 Link :https://www.hackerrank.com/challenges/earnings-of-employees/problem?isFullScreen=true
