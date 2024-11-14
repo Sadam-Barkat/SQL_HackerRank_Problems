@@ -59,3 +59,5 @@ Query-11 Link :https://www.hackerrank.com/challenges/weather-observation-station
 
 Query-12 Link :https://www.hackerrank.com/challenges/weather-observation-station-15/problem?isFullScreen=true
 
+Query-13 Link :https://www.hackerrank.com/challenges/weather-observation-station-16/problem?isFullScreen=true
+
