@@ -1,6 +1,6 @@
 /*
 Problem:
-Query the Manhattan Distance between points  and  and round it to a scale of 4 decimal places.
+Query the Manhattan Distance between points p1 and p2 and round it to a scale of 4 decimal places.
 
 Problem Link:
 https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true
